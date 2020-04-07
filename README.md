@@ -11,7 +11,7 @@ I send a GetServices request to camera see all the services it supports, and I g
 
 I send a GetProfiles request and let user choose a profile, and then send GetStreamUri to get the video URI of the selected profile
 
-I wrote with Python 3.8. Have't tested on anything else.
+I wrote with Python 3.8. Haven't tested on anything else.
 
 Put the wsdl files in working directory (usually same directory as the python file)
 
