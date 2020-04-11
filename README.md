@@ -18,3 +18,4 @@ Put the wsdl files in working directory (usually same directory as the python fi
 Marshalling the wsdl files takes a bit of time, but they will be cached for an hour, so subsequent runs won't take very long/
 
 I have no idea if people are able to leave comments, but if you can, please comment if you like it, and/or with any questions :)
+Or email me at mberest@gmail.com
